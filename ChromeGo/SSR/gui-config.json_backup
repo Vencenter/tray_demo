@@ -1,0 +1,61 @@
+{
+	"configs" : [
+		{
+			"remarks" : "莫斯科SSR+TLS+Caddy",
+			"id" : "0311D9C04D032713D63B317F6925C4B8",
+			"server" : "ssr30.free3333.xyz",
+			"server_port" : 443,
+			"server_udp_port" : 0,
+			"password" : "dongtaiwang.com",
+			"method" : "none",
+			"protocol" : "auth_chain_a",
+			"protocolparam" : "",
+			"obfs" : "tls1.2_ticket_auth",
+			"obfsparam" : "",
+			"remarks_base64" : "6I6r5pav56eRU1NSK1RMUytDYWRkeQ",
+			"group" : "https://github.com/Alvin9999/new-pac/wiki",
+			"enable" : true,
+			"udp_over_tcp" : true
+		}
+	],
+	"index" : 0,
+	"random" : true,
+	"sysProxyMode" : 3,
+	"shareOverLan" : false,
+	"localPort" : 1080,
+	"localAuthPassword" : "2ypX8snA7ghIk1gUry0w",
+	"localDnsServer" : "",
+	"dnsServer" : "",
+	"reconnectTimes" : 2,
+	"balanceAlgorithm" : "LowException",
+	"randomInGroup" : false,
+	"TTL" : 0,
+	"connectTimeout" : 5,
+	"proxyRuleMode" : 2,
+	"proxyEnable" : false,
+	"pacDirectGoProxy" : false,
+	"proxyType" : 0,
+	"proxyHost" : null,
+	"proxyPort" : 0,
+	"proxyAuthUser" : null,
+	"proxyAuthPass" : null,
+	"proxyUserAgent" : null,
+	"authUser" : null,
+	"authPass" : null,
+	"autoBan" : false,
+	"checkSwitchAutoCloseAll" : false,
+	"logEnable" : false,
+	"sameHostForSameTarget" : false,
+	"keepVisitTime" : 180,
+	"isHideTips" : true,
+	"nodeFeedAutoUpdate" : true,
+	"serverSubscribes" : [
+
+	],
+	"token" : {
+
+	},
+	"portMap" : {
+
+	}
+}
